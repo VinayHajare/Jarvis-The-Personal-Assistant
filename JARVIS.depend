@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1618225395 source:e:\vinay\c & c++project\hydron 2\assistant.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<iomanip>
+	<cstring>
+	<ctype.h>
+	<windows.h>
+	<ctime>
+	"assistant.h"
+
+1618225398 e:\vinay\c & c++project\hydron 2\assistant.h
+
+1618225498 source:e:\vinay\c & c++project\hydron 2\main.cpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<iomanip>
+	<stdio.h>
+	<cstring>
+	<process.h>
+	<unistd.h>
+	<windows.h>
+	"assistant.h"
+
+1618225395 source:e:\vinay\c & c++project\jarvis\assistant.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<iomanip>
+	<cstring>
+	<ctype.h>
+	<windows.h>
+	<ctime>
+	"assistant.h"
+
+1618225398 e:\vinay\c & c++project\jarvis\assistant.h
+
