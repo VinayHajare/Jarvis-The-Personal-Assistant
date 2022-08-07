@@ -1,0 +1,46 @@
+                                                     Command for JARVIS(personal assistant):
+
+ 1. Say hi = hi/ hello / hey  
+
+ 2. Show help  = help 
+
+ 3. Play music = play(song name)
+                       Ex. play dilbar 
+
+ 4. Open software = open(software name )        
+                           Ex. open mozila 
+
+ 5. Update the  song list = update 
+
+ 6. Show the song list = list all song / list song
+
+ 7. Download the song = song/music(song name)
+
+ 8. Download the movie = movie (movie  name )
+                                     Ex. movie spider-man home coming 
+
+ 9. Download the pdf  =  pdf(pdf name)
+                                Ex. pdf  c++ tutorial
+
+10. Watch videos on youtube = watch/ yt/ youtube
+                                          Ex.  Watch how to make a website 
+
+11. Shutdown/ Restart = shutdown/restart
+
+12. Find the IP address of your system  = find ip/find my ip/ip
+
+13. Block the website = block(website name)
+                                 Ex. block google.com
+          ( If you want to unblock the website then delete this file " c://windows/system32/devices/etc/ hosts")
+
+14. Search anything = search what/why/when/how/where
+                                Ex. what is ip
+
+15. Use  cmd  command = cmd(cmd command)
+                                       Ex. cmd color 0e
+
+16. Exit JARVIS = exit/q/quit
+
+17. Say thanks =  thanks buddy
+
+18. Ask his health = how are you
